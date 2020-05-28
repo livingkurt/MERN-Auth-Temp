@@ -1,1 +1,1 @@
-# MERN-Auth-Temp
+# MERN-Authorization
